@@ -1,0 +1,1 @@
+Numarator Kurulum Dosyası
